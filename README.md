@@ -100,28 +100,6 @@ kotlin-tutorial
 更多精采課程內容，持續新增補充中...
 ---
 
-參考資料
-
-JavaSE6Tutorial 章節排版
-https://github.com/JustinSDK/JavaSE6Tutorial
-
-## 第 1 章 瞭解 Java
-
-1.1  什麼是 Java
-1.2　Java 的特性
-1.3　如何學習 Java
-1.4　接下來的主題
-
-## 第 2 章 入門準備
-2.1 下載、安裝、瞭解 JDK
-2.2 設定 Path 與 Classpath
-2.3 第一個 Java 程式
-2.4 選擇開發工具
-2.5 接下來的主題
-
----
-
-
 # 〈著作聲明〉
 「從零開始學 kotlin 程式設計」中提供所有的圖文、程式碼與影片教學，以下簡稱「本資料」。
 
