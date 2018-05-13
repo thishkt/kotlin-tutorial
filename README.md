@@ -1,6 +1,3 @@
-kotlin-tutorial
-===
-
 # 從零開始學 kotlin 程式設計
 ![](https://i.imgur.com/wbyhsUH.jpg)
 
@@ -92,6 +89,9 @@ kotlin-tutorial
 
 7.4 [EditText 文字輸入框元件](https://github.com/thishkt/Android-DemoEditText)
 
+7.5 [Toast 訊息提示元件](https://github.com/thishkt/Android-DemoToast1)
+
+7.6 [Toast 自定義父類別函數 訊息提示元件](https://github.com/thishkt/Androdi-DemoToast2)
 
 更多精采課程內容，持續新增補充中...
 ---
